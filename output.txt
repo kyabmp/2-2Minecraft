@@ -1,3 +1,5 @@
+2024/12/16 08:34:12 : Ryosuke310xuid Spawned [xuid: Ryosuke310xuid]
+2024/12/16 08:34:03 : Ryosuke310 connected [xuid: Ryosuke310,xuid]
 2024/12/16 00:30:20 : Ryosuke310 disconnected [xuid: Ryosuke310,xuid]
 2024/12/16 00:03:22 : Ryosuke310xuid Spawned [xuid: Ryosuke310xuid]
 2024/12/16 00:03:15 : Ryosuke310 connected [xuid: Ryosuke310,xuid]
