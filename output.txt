@@ -1,3 +1,7 @@
+2024/12/17 13:02:43 : WeeklyRain38448 disconnected [xuid: WeeklyRain38448,xuid]
+2024/12/17 13:02:43 : kyabmp disconnected [xuid: kyabmp,xuid]
+2024/12/17 13:02:42 : Ryosuke310 disconnected [xuid: Ryosuke310,xuid]
+2024/12/17 13:02:42 : VideoBaton83248 disconnected [xuid: VideoBaton83248,xuid]
 2024/12/17 13:01:28 : WeeklyRain38448xuid Spawned [xuid: WeeklyRain38448xuid]
 2024/12/17 13:01:27 : WeeklyRain38448 connected [xuid: WeeklyRain38448,xuid]
 2024/12/17 13:00:28 : WeeklyRain38448 disconnected [xuid: WeeklyRain38448,xuid]
