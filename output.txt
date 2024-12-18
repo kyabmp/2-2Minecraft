@@ -1,3 +1,5 @@
+2024/12/18 15:51:54 : Ryosuke310xuid Spawned [xuid: Ryosuke310xuid]
+2024/12/18 15:51:53 : Ryosuke310 connected [xuid: Ryosuke310,xuid]
 2024/12/18 15:24:29 : WeeklyRain38448xuid Spawned [xuid: WeeklyRain38448xuid]
 2024/12/18 15:24:28 : WeeklyRain38448 connected [xuid: WeeklyRain38448,xuid]
 2024/12/18 15:22:59 : WeeklyRain38448 disconnected [xuid: WeeklyRain38448,xuid]
