@@ -1,3 +1,5 @@
+2024/12/18 19:57:01 : Ryosuke310xuid Spawned [xuid: Ryosuke310xuid]
+2024/12/18 19:57:00 : Ryosuke310 connected [xuid: Ryosuke310,xuid]
 2024/12/18 19:38:09 : VideoBaton83248xuid Spawned [xuid: VideoBaton83248xuid]
 2024/12/18 19:38:08 : VideoBaton83248 connected [xuid: VideoBaton83248,xuid]
 2024/12/18 19:34:42 : kyabmp disconnected [xuid: kyabmp,xuid]
