@@ -1,9 +1,7 @@
-Player Ranking by Connection Time
-========================================
-1. kyabmpxuid - 54:00:00
-2. VideoBaton83248xuid - 45:00:00
-3. Ryosuke310xuid - 24:00:00
-4. WeeklyRain38448xuid - 21:00:00
-5. GradedDawn51704xuid - 11:00:00
-6. uchiboEROmeganexuid - 03:00:00
-7. Puppy03020518xuid - 02:00:00
+Rank 1: kyabmpxuid - 21757.00 seconds
+Rank 2: VideoBaton83248xuid - 21602.00 seconds
+Rank 3: Ryosuke310xuid - 13987.00 seconds
+Rank 4: WeeklyRain38448xuid - 8968.00 seconds
+Rank 5: GradedDawn51704xuid - 1780.00 seconds
+Rank 6: uchiboEROmeganexuid - 238.00 seconds
+Rank 7: Puppy03020518xuid - 29.00 seconds
