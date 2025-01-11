@@ -1,3 +1,5 @@
+2025/01/11 18:57:26 : WhatCh4nxuid Spawned [xuid: WhatCh4nxuid]
+2025/01/11 18:57:22 : WhatCh4n connected [xuid: WhatCh4n,xuid]
 2025/01/11 18:56:43 : WhatCh4n disconnected [xuid: WhatCh4n,xuid]
 2025/01/11 18:42:04 : WhatCh4nxuid Spawned [xuid: WhatCh4nxuid]
 2025/01/11 18:42:00 : WhatCh4n connected [xuid: WhatCh4n,xuid]
