@@ -1,3 +1,5 @@
+2025/01/16 01:45:03 : uchiboEROmeganexuid Spawned [xuid: uchiboEROmeganexuid]
+2025/01/16 01:45:02 : uchiboEROmegane connected [xuid: uchiboEROmegane,xuid]
 2025/01/16 01:40:58 : uchiboEROmegane disconnected [xuid: uchiboEROmegane,xuid]
 2025/01/16 01:37:02 : uchiboEROmeganexuid Spawned [xuid: uchiboEROmeganexuid]
 2025/01/16 01:36:59 : uchiboEROmegane connected [xuid: uchiboEROmegane,xuid]
