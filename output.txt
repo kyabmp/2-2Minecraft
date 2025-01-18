@@ -1,3 +1,5 @@
+2025/01/18 22:56:46 : uchiboEROmeganexuid Spawned [xuid: uchiboEROmeganexuid]
+2025/01/18 22:56:44 : uchiboEROmegane connected [xuid: uchiboEROmegane,xuid]
 2025/01/18 21:48:07 : kyabmpxuid Spawned [xuid: kyabmpxuid]
 2025/01/18 21:47:58 : kyabmp connected [xuid: kyabmp,xuid]
 2025/01/18 21:35:26 : WeeklyRain38448 disconnected [xuid: WeeklyRain38448,xuid]
