@@ -1,3 +1,5 @@
+2025/01/19 02:24:36 : Puppy03020518xuid Spawned [xuid: Puppy03020518xuid]
+2025/01/19 02:24:34 : Puppy03020518 connected [xuid: Puppy03020518,xuid]
 2025/01/19 02:24:04 : Puppy03020518 disconnected [xuid: Puppy03020518,xuid]
 2025/01/19 02:21:52 : uchiboEROmeganexuid Spawned [xuid: uchiboEROmeganexuid]
 2025/01/19 02:21:50 : uchiboEROmegane connected [xuid: uchiboEROmegane,xuid]
