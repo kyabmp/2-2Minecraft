@@ -1,3 +1,5 @@
+2025/01/20 09:40:11 : uchiboEROmegane disconnected [xuid: uchiboEROmegane,xuid]
+2025/01/20 09:40:09 : kyabmp disconnected [xuid: kyabmp,xuid]
 2025/01/20 09:34:12 : uchiboEROmeganexuid Spawned [xuid: uchiboEROmeganexuid]
 2025/01/20 09:34:10 : uchiboEROmegane connected [xuid: uchiboEROmegane,xuid]
 2025/01/20 09:33:17 : kyabmpxuid Spawned [xuid: kyabmpxuid]
