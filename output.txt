@@ -1,3 +1,5 @@
+2025/01/23 09:22:44 : WeeklyRain38448xuid Spawned [xuid: WeeklyRain38448xuid]
+2025/01/23 09:22:30 : WeeklyRain38448 connected [xuid: WeeklyRain38448,xuid]
 2025/01/23 08:32:55 : Puppy03020518 disconnected [xuid: Puppy03020518,xuid]
 2025/01/23 08:15:11 : Puppy03020518xuid Spawned [xuid: Puppy03020518xuid]
 2025/01/23 08:15:04 : Puppy03020518 connected [xuid: Puppy03020518,xuid]
