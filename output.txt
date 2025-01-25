@@ -1,3 +1,6 @@
+2025/01/26 00:51:05 : uchiboEROmeganexuid Spawned [xuid: uchiboEROmeganexuid]
+2025/01/26 00:51:02 : uchiboEROmegane connected [xuid: uchiboEROmegane,xuid]
+2025/01/26 00:50:21 : uchiboEROmegane disconnected [xuid: uchiboEROmegane,xuid]
 2025/01/26 00:35:13 : VideoBaton83248xuid Spawned [xuid: VideoBaton83248xuid]
 2025/01/26 00:35:12 : VideoBaton83248 connected [xuid: VideoBaton83248,xuid]
 2025/01/26 00:35:02 : VideoBaton83248 disconnected [xuid: VideoBaton83248,xuid]
